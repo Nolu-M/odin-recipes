@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is a webpage that will be linking to different recipes that I love. I will be testing my HTML skills such as the HTML boilerplate, different html tags, including linking different images, to various websites and more.
